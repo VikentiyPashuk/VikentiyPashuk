@@ -1,0 +1,7 @@
+- Hi, I’m @VikentiyPashuk
+- I’m interested in Computational Fluid Dynamics (CFD)
+- I’m currently doing a Honours in Physics at Memorial University 
+- I’m looking to collaborate on aerodynamical simulations
+- Reach out by email or by phone at vikentiy.pashuk@gmail.com and 1(709)986-8066
+- Pronouns: He/Him
+- Fun fact: My favourite book is A Wild Sheep Chase by Haruki Murakami
