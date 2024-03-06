@@ -11,7 +11,7 @@
 
 ## Ok, you win. You found me
 
-I'm an aspiring Developer/Data Scientist & a Computational Physicist with a passion for Aerodynamics, Data analysis, racing and space. I'm seeking ways to apply my experience and knowledge to help design leading technologies in the automotive and aeronautical industries. 
+I'm an aspiring Computational Physicist and Data analyst with a passion for Aerodynamics, Aeronautics, Data analysis, and Racing. I'm seeking ways to apply my experience and knowledge to help design leading technologies in the automotive and aeronautical industries. 
 
 As a human, I hold myself accountable on how I perform my work and so I approach it with the most deligence and dedication in the hopes of making the world a better place. A little cliche but what can you do.
 
