@@ -31,7 +31,7 @@ In my free time which I have little of I read fiction. One of my favourites is A
 - 💪 Most importantly, this is my creative space where I get to share all the amazing things I get upto as part of school and in my free time
 ---
 
-## 🛠️ My favorite tools
+## 🛠️ Experienced with
 
 ### 👨‍💻 Programming languages
 
