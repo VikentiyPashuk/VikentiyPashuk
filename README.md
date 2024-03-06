@@ -1,12 +1,12 @@
 # Welcome to [Vikentiy Pashuk's](https://github.com/VikentiyPashuk) profile! <a href="https://github.com/VikentiyPashuk"></a>
 
-<a href="https://www.linkedin.com/in/nurulbibrahim/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurulbibrahim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikentiypashuk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurulbibrahim" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/_noorool_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vikentiypashuk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/nurulbibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vikentiy.pashuk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/nurulb000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/Vikentiy_Pashuk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
 
 ## Ok, you win. You found me
